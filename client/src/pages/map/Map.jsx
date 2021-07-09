@@ -32,7 +32,7 @@ export default function Map() {
           closeButton={true}
           closeOnClick={false}
           anchor="left" >
-          <div>You are here</div>
+          <div>You</div>
         </Popup>
 
     </ReactMapGL>
